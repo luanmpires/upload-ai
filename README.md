@@ -157,9 +157,7 @@ This project is under the MIT license. See the [LICENSE](https://github.com/luan
 
   <h3 align="center">Luan Pires</h3>
   
-  <p align="center">  
-    Made with love and hate 😅, get in touch!
-  </p>
+  
 </p>  
   
 <div align="center">
