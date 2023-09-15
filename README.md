@@ -153,7 +153,7 @@ This project is under the MIT license. See the [LICENSE](https://github.com/luan
 ## ✒ Author
 
 <p align="center">
-  <img width="200px" alt="Luan Pires" title="Luan Pires" src="https://github.com/luanmpires.svg" />
+  <img width="200px" alt="Luan Pires" title="Luan Pires" src="https://avatars.githubusercontent.com/u/104537386?v=4" />
 
   <h3 align="center">Luan Pires</h3>
   
