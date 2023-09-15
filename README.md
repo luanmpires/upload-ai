@@ -1,7 +1,7 @@
 <p align="center">
-  <img width="200px" alt="Project NLW IA Mastery" title="Project NLW IA Mastery Logo" src="./.gihub/logo.svg" />
   
-  <h1 align="center">Project NLW IA Mastery</h1>
+  
+  <h1 align="center">Project NLW IA </h1>
 
  
 
